@@ -32,10 +32,10 @@ If these are not in your PATH, use this command:
 
 <pre>python test1.py</pre>
 
-This test should open a Chrome browser, navigate to codecademy.com, and then throw an error that the items were not found.
+This test should open a Chrome web browser, navigate to codecademy.com, and then throw an error that the items were not found.
 
 4. Run the next test.
 
 <pre>python test2.py</pre>
 
-This test should open a web browser, navigate to codecademy.com, and successfully log in and out.
+This test should open a Chrome web browser, navigate to codecademy.com, and successfully log in and out.
