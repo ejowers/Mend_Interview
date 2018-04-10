@@ -38,4 +38,4 @@ This test should open a Chrome web browser, navigate to codecademy.com, and then
 
 <pre>python test2.py</pre>
 
-This test should open a Chrome web browser, navigate to codecademy.com, and successfully log in and out.
+This test should open a Chrome web browser, navigate to codecademy.com, successfully log in and out, then fail to login using incorrect credentials. The username is usr1234 and the password is Password1234 for this test.
