@@ -5,14 +5,14 @@ Note: These instructions are for MacOS. The terminal commands may need to be edi
 
 Setup the environment:
 
-I wrote these tests using the latest release of Python 2.7 and Selenium Webdriver. If you do not have these installed, please follow the instructions in the links below. You will need the Selenium server (section 1.5 of the Selenium tutorial).
-Python: https://www.python.org/downloads/
+I wrote these tests using the latest release of Python 2.7 and Selenium Webdriver. If you do not have these installed, please follow the instructions in the links below. You will need the Selenium server (section 1.5 of the Selenium tutorial). <br>
+Python: https://www.python.org/downloads/<br>
 Selenium: http://selenium-python.readthedocs.io/installation.html
 
-You will also need to have JDK installed on your machine. You can download it here:
+You will also need to have JDK installed on your machine. You can download it here:<br>
 http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html
 
-Lastly, you will need to have Chrome installed. You can dowload it here:
+Lastly, you will need to have Chrome installed. You can dowload it here:<br>
 https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMIr6vh482u2gIVTS-BCh233grAEAAYASAAEgKXuvD_BwE&gclsrc=aw.ds&dclid=CNCwjObNrtoCFc2_ZAodc4YJiA
 
 Download (or clone) the files from this repository to an easily accessible folder on your machine.
